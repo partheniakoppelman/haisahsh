@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eephiepaes.griffnee.com/sitemap.xml
